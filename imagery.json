@@ -4,8 +4,8 @@
     "type": "tms",
     "overzoom": true,
     "overlay": false,
-    "description": "Tile for Univaja",
-    "template": "<http:/localhost:5000/styles/default/tommyg/{zoom}/{x}/{y}.png>",
+    "description": "Tommy Guardia mapa",
+    "template": "http:/localhost:5000/styles/default/tiles/tommyg/{zoom}/{x}/{y}.png",
     "scaleExtent": [
       5,
       13
