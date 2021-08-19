@@ -5,7 +5,7 @@
     "overzoom": true,
     "overlay": false,
     "description": "Tommy Guardia mapa",
-    "template": "http:/localhost:5000/styles/default/tiles/tommyg/{zoom}/{x}/{y}.png",
+    "template": "http:/localhost:5000/styles/default/tommyg/{zoom}/{x}/{y}.png",
     "scaleExtent": [
       5,
       13
