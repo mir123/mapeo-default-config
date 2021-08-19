@@ -1,0 +1,27 @@
+[
+{
+    "name": "Mapa Tommy Guardia",
+    "type": "tms",
+    "overzoom": true,
+    "overlay": false,
+    "description": "Tile for Univaja",
+    "template": "<http:/localhost:5000/styles/default/tommyg/{zoom}/{x}/{y}.png>",
+    "scaleExtent": [
+      5,
+      13
+    ],
+    "default": true,
+    "polygon": [
+      [
+        [
+          -83,
+		  6.9
+        ],
+        [
+          -77,
+		  10
+        ]
+      ]
+    ]
+  }
+]
